@@ -11,7 +11,6 @@ import java.util.UUID;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-//https://mp.weixin.qq.com/s?__biz=MzA3MTUzOTcxOQ==&mid=2452964308&idx=1&sn=56df7e457c61cb0092830087ee8949df&chksm=88edeebcbf9a67aa1ff96d3ebbb016c63859501cd1b0a25a10a5280d34547712bc4d6df4d25b&mpshare=1&scene=1&srcid=1216RdR9dVUMRdS8lmrndcOg#rd
 /**
  * @ClassName ControllerInterceptor
  * @Description 自定义拦截器 logback requestUUID
